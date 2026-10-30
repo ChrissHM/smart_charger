@@ -1,0 +1,12 @@
+{
+  "domain": "smart_charger",
+  "name": "Smart Charger",
+  "codeowners": [
+    "@ChrissHM"
+  ],
+  "config_flow": true,
+  "documentation": "https://github.com/ChrissHM/smart_charger",
+  "iot_class": "cloud_polling",
+  "issue_tracker": "https://github.com/ChrissHM/smart_charger/issues",
+  "version": "1.0.0-alpha"
+}
